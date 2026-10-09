@@ -1,0 +1,6 @@
+{
+  "name": "SC-500 Purview Learning Simulator",
+  "description": "Microsoft Purview (情報保護 & コンプライアンス) SC-500試験対策のための動作検証・インタラクティブシミュレーター",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
