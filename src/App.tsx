@@ -29,7 +29,7 @@ import { PurviewCheatSheet } from './components/PurviewCheatSheet';
 import { PortalTourModal } from './components/PortalTourModal';
 
 export default function App() {
-  const [currentTab, setCurrentTab] = useState<PurviewDomain>('azure-rbac-pim');
+  const [currentTab, setCurrentTab] = useState<PurviewDomain>('azure-appgw-firewall');
   const [isTourOpen, setIsTourOpen] = useState<boolean>(false);
   const [preselectedQuestionId, setPreselectedQuestionId] = useState<string | null>(null);
   const [resetKey, setResetKey] = useState<number>(0);
